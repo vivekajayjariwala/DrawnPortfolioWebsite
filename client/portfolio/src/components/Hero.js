@@ -18,8 +18,8 @@ export default function Hero() {
 
         <div className="flex flex-wrap items-center justify-center gap-6 mt-4">
           <button className="p-[3px] relative animate-fadeIn [animation-delay:400ms] w-auto hover:scale-105 transition-all duration-300 ease-out">
-            <div className="absolute inset-0 bg-gradient-to-r from-indigo-500 to-purple-500 rounded-lg opacity-70 group-hover:opacity-100 blur-sm transition-all duration-500 ease-out" />
-            <div className="absolute inset-0 bg-gradient-to-r from-indigo-500 to-purple-500 rounded-lg" />
+            <div className="absolute inset-0 bg-gradient-to-r from-indigo-500 to-purple-500 rounded-lg opacity-70 group-hover:opacity-100 blur-sm transition-all duration-500 ease-out animate-gradient" />
+            <div className="absolute inset-0 bg-gradient-to-r from-indigo-500 to-purple-500 rounded-lg animate-gradient" />
             <a 
               href="/resume.pdf" 
               target="_blank"

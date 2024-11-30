@@ -4,10 +4,10 @@ import BentoGrid from './components/BentoGrid';
 
 function App() {
   return (
-    <div className="min-h-screen bg-gray-100">
+    <main className="relative min-h-screen">
       <Hero />
       <BentoGrid />
-    </div>
+    </main>
   );
 }
 

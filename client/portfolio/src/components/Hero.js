@@ -21,8 +21,9 @@ export default function Hero() {
             <div className="absolute inset-0 bg-gradient-to-r from-indigo-500 to-purple-500 rounded-lg opacity-70 group-hover:opacity-100 blur-sm transition-all duration-500 ease-out animate-gradient" />
             <div className="absolute inset-0 bg-gradient-to-r from-indigo-500 to-purple-500 rounded-lg animate-gradient" />
             <a 
-              href="/resume.pdf" 
+              href="/assets/Vivek_Jariwala_Resume.pdf"
               target="_blank"
+              rel="noopener noreferrer"
               className="px-8 py-3 bg-black rounded-[6px] relative group transition-all duration-300 ease-out text-white hover:bg-transparent font-medium block"
             >
               View Resume

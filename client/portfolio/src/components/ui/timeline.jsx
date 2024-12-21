@@ -30,7 +30,7 @@ export const Timeline = ({
       ref={containerRef}>
       <div className="max-w-7xl mx-auto py-20 px-4 md:px-8 lg:px-10">
         <h2 className="text-4xl sm:text-5xl font-bold text-white mb-8 text-center font-['Libre_Baskerville'] lowercase">
-          here are some of my experiences
+          my experience
         </h2>
       </div>
       <div ref={ref} className="relative max-w-7xl mx-auto pb-20">

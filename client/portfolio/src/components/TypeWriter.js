@@ -4,8 +4,6 @@ export default function TypeWriter() {
   const phrases = useMemo(() => [
     "I'm a fourth year software engineering student at Western University",
     "I'm also completing a business degree at Ivey Business School",
-    "I'm currently Co-President of Ivey Technology Club",
-    "I've worked in AI, data science, full stack development, and computer vision",
     "In my spare time, I love drawing and discovering new music"
   ], []);
 

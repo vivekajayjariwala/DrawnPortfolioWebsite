@@ -72,35 +72,42 @@ const items = [
     title: "Next Stop",
     description: "A social platform for travelers to discover and share hidden gems around the world.",
     header: <Image src='/assets/Next_Stop.jpg' alt="Next Stop Project" />,
+    href: "https://github.com/vivekajayjariwala/NextStop",
   },
   {
     title: "Bulletin Board",
     description: "Real-time collaborative workspace for teams to brainstorm and organize ideas together.",
     header: <Image src='/assets/Bulletin_Board.jpg' alt="Bulletin Board Project" />,
+    href: "https://github.com/vivekajayjariwala/BulletinBoard",
   },
   {
     title: "Battle of the Marauders",
     description: "A 16-bit adventure game featuring turn-based combat and dynamic platforming mechanics.",
     header: <Image src='/assets/Battle_of_the_Marauders.jpg' alt="Battle of the Marauders Project" />,
+    href: "https://github.com/vivekajayjariwala/BattleOfTheMarauders",
   },
   {
     title: "Bond Brand Loyalty Machine Learning Challenge",
     description: "Award-winning predictive model for analyzing and forecasting customer behavior patterns.",
     header: <Image src='/assets/Bond_Brand_Loyalty_Machine_Learning_Challenge.jpg' alt="Bond ML Challenge Project" />,
+    href: "https://github.com/vivekajayjariwala/MachineLearningChallenge",
   },
   {
     title: "Fantasy League Manager",
     description: "Comprehensive management system for organizing and tracking fantasy sports leagues.",
     header: <Image src='/assets/Fantasy_League_Manager.jpg' alt="Fantasy League Project" />,
+    href: "https://github.com/vivekajayjariwala/FantasyLeagueManager",
   },
   {
     title: "Riddles Emporium",
     description: "Interactive community platform where users can create, solve, and discuss riddles.",
     header: <Image src='/assets/Riddles_Emporium.jpg' alt="Riddles Emporium Project" />,
+    href: "https://github.com/vivekajayjariwala/RiddlesEmporium",
   },
   {
     title: "Sales Forecaster",
     description: "Advanced analytics tool for predicting retail sales trends and market patterns.",
     header: <Image src='/assets/Sales_Forecaster.jpg' alt="Sales Forecaster Project" />,
+    href: "https://github.com/vivekajayjariwala/SalesForecaster",
   },
 ];
